@@ -10,7 +10,7 @@
 
     <properties>
           <protoc-jar.version>2.6.1.4</protoc-jar.version>
-        <protobuf-java.version>2.6.1</protobuf-java.version>
+        <protobuf-java.version>3.16.1</protobuf-java.version>
         <kafka-clients.version>0.9.0.1</kafka-clients.version>
     </properties>
 
